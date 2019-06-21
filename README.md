@@ -8,3 +8,9 @@
   - Pull request 4: https://github.com/TheOdinProject/curriculum/pull/10618
   - Pull request 5: https://github.com/TheOdinProject/curriculum/pull/10629
   - Pull request 6: https://github.com/TheOdinProject/curriculum/pull/10634
+  - Pull request 7: https://github.com/TheOdinProject/curriculum/pull/10431
+  - Pull request 8: https://github.com/TheOdinProject/curriculum/pull/10449
+  - Pull request 9: https://github.com/TheOdinProject/curriculum/pull/10458
+  - Pull request 10: https://github.com/TheOdinProject/curriculum/pull/10535
+  - Pull request 11: https://github.com/TheOdinProject/curriculum/pull/10610
+  - Pull request 12: https://github.com/TheOdinProject/curriculum/pull/10445
