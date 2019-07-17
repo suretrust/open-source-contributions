@@ -14,3 +14,4 @@
   - Pull request 10: https://github.com/TheOdinProject/curriculum/pull/10535
   - Pull request 11: https://github.com/TheOdinProject/curriculum/pull/10610
   - Pull request 12: https://github.com/TheOdinProject/curriculum/pull/10445
+  - Pull request 13: https://github.com/TheOdinProject/curriculum/pull/11359
